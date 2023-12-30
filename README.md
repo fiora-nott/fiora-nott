@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+<h1>Hi! Welcome to my portfolio. My name is Fiora.</h1>
+<h2>Below is a list of my past projects organized by size.</h2>
+
+
 <!--
 **fiora-nott/fiora-nott** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
