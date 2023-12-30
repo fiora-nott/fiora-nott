@@ -1,7 +1,7 @@
 <h1>Hi! Welcome to my portfolio. My name is Fiora.</h1>
 <p>Below is a list of my past projects organized by size.</p>
 
-!(Primitive mesh bit-packing in C++, OpenGL)[github.com/fiora-nott/
+![Primitive mesh bit-packing in C++, OpenGL](https://github.com/fiora-nott/OpenGL-Bitpacking.git)
 
 <!--
 **fiora-nott/fiora-nott** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
