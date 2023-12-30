@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <h1>Hi! Welcome to my portfolio. My name is Fiora.</h1>
-<h2>Below is a list of my past projects organized by size.</h2>
+<p>Below is a list of my past projects organized by size.</p>
 
 
 <!--
