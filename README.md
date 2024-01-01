@@ -1,7 +1,20 @@
-<h1>Hi! Welcome to my portfolio. My name is Fiora.</h1>
-<p>Below is a list of my past projects organized by size. Most projects are about rendering voxels using different real-time algorithms and heavy optimization.</p>
+# Hi! Welcome to my portfolio. My name is Fiora.
 
-🧊 [Primitive mesh bit-packing](https://github.com/fiora-nott/OpenGL-Bitpacking.git) <C++, OpenGL>
+Below is a list of my past projects organized by size.
+
+---
+
+🧊 [Voxel Renderer using Bit-Packing](https://github.com/fiora-nott/OpenGL-Bitpacking.git)  <C++, OpenGL>  
+
+![Voxel World of Diamonds](Screenshots/opengl_mesh.png)
+
+---
+
+🖱️ [Live-Update Student Leaderboard](https://github.com/fiora-nott/GAS-Leaderboard.git)  <Javascript, Google Apps Script>
+
+![Student Leaderboard Populated](Screenshots/student_leaderboard.png)
+
+---
 
 <!--
 **fiora-nott/fiora-nott** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
