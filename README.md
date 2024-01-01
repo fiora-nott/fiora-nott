@@ -7,7 +7,7 @@ Below is a list of my favorite projects organized by documentation length.
 **Title:** Voxel Renderer using Bit-Packing  
 **Languages:** C++, GLSL, OpenGL  
 **Media:** Video, UML Diagram, Screenshots  
-**Link:** [Repository](https://github.com/fiora-nott/OpenGL-Bitpacking.git)  
+**Link:** [Repository](https://github.com/fiora-nott/Mesh_Bitpacking_OpenGL)  
 
 <image src="Screenshots/opengl_mesh.png" width="50%" height="auto" />
 
