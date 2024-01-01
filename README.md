@@ -1,18 +1,24 @@
 # Hi! Welcome to my portfolio. My name is Fiora.
 
-Below is a list of my past projects organized by size.
+Below is a list of my past projects organized by documentation length.
 
 ---
 
-🧊 [Voxel Renderer using Bit-Packing](https://github.com/fiora-nott/OpenGL-Bitpacking.git)  <C++, OpenGL>  
+**Title:** Voxel Renderer using Bit-Packing  
+**Languages:** C++, HLSL, OpenGL  
+**Media:** Video, UML Diagram, Screenshots  
+**Link:** [Repository](https://github.com/fiora-nott/OpenGL-Bitpacking.git)  
 
-![Voxel World of Diamonds](Screenshots/opengl_mesh.png)
+<image src="Screenshots/opengl_mesh.png" width="50%" height="auto" />
 
 ---
 
-🖱️ [Live-Update Student Leaderboard](https://github.com/fiora-nott/GAS-Leaderboard.git)  <Javascript, Google Apps Script>
+**Title:** Live-Update Student Leaderboard 🖱️  
+**Languages:** Javascript, Google Apps Script, JQuery  
+**Media:** PDF Writeup, Webpage Links  
+**Link:** [Repository](https://github.com/fiora-nott/GAS-Leaderboard.git)  
 
-![Student Leaderboard Populated](Screenshots/student_leaderboard.png)
+<image src="Screenshots/student_leaderboard.png" width="50%" height="auto" />
 
 ---
 
