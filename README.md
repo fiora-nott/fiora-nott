@@ -1,6 +1,6 @@
 # Hi! Welcome to my portfolio. My name is Fiora.
 
-Below is a list of my past projects organized by documentation length.
+Below is a list of my favorite projects organized by documentation length.
 
 ---
 
