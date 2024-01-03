@@ -29,8 +29,6 @@ Below is a list of my favorite projects organized by documentation length.
 
 <image src="Screenshots/student_leaderboard.png" width="50%" height="auto" />
 
----
-
 <!--
 **fiora-nott/fiora-nott** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
