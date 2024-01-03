@@ -4,6 +4,15 @@ Below is a list of my favorite projects organized by documentation length.
 
 ---
 
+**Title:** Voxel Raymarcher using DDA
+**Languages:** HLSL, C#  
+**Media:** Video, Screenshots  
+**Link:** [Repository](https://github.com/fiora-nott/recursive-reflections)  
+
+<image src="Screenshots/reflection_scene.png" width="50%" height="auto" />
+
+---
+
 **Title:** Voxel Renderer using Bit-Packing  
 **Languages:** C++, GLSL, OpenGL  
 **Media:** Video, UML Diagram, Screenshots  
