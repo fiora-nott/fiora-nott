@@ -1,10 +1,10 @@
 # Hi! Welcome to my portfolio. My name is Fiora.
 
-Below is a list of my favorite projects organized by documentation length.
+Below is a list of my favorite projects with extensive documentation. Each repository has a writeup explaining what the project is and what I learned. Additional media is project-dependent.
 
 ---
 
-**Title:** Voxel Raymarcher using DDA
+**Title:** Recursive Raymarching Reflections   
 **Languages:** HLSL, C#  
 **Media:** Video, Screenshots  
 **Link:** [Repository](https://github.com/fiora-nott/recursive-reflections)  
