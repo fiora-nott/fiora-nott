@@ -5,7 +5,7 @@ Below is a list of my favorite projects with extensive documentation. Each repos
 ---
 
 **Title:** Recursive Raymarching Reflections   
-**Languages:** HLSL, C#  
+**Languages:** HLSL, C#, Unity Compute Shaders  
 **Media:** Video, Screenshots  
 **Link:** [Repository](https://github.com/fiora-nott/recursive-reflections)  
 
@@ -14,7 +14,7 @@ Below is a list of my favorite projects with extensive documentation. Each repos
 ---
 
 **Title:** Voxel Renderer using Bit-Packing  
-**Languages:** C++, GLSL, OpenGL  
+**Languages:** C++, GLSL, OpenGL, Visual Studio  
 **Media:** Video, UML Diagram, Screenshots  
 **Link:** [Repository](https://github.com/fiora-nott/gl-mesh-bitpacking)  
 
